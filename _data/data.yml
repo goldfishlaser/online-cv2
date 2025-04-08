@@ -36,14 +36,29 @@ sidebar:
     - item: Technical Writing
       link:
 
-
     - item: Product Marketing
       link:
 
-
-    - item: Project Management
+    - item: Software Documentation
+      link:
+      
+    - item: Installation Manuals
+      link:
+      
+    - item: SME Interviews
       link:
 
+    - item: Research
+      link:
+
+    - item: On-site and Remote Team Collaboration
+      link:
+
+    - item: Graphic Design
+      link:
+      
+    - item: Instructional Design
+      link:
 
 career-profile:
   title: Career Profile
@@ -54,34 +69,23 @@ education:
   info:
   - degree: BS in  Technical Communication
     university: Southern Polytechnic State University
-    time: 2011 - 2012
+    time: 2012
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Graduated with specialization in Information Design
 
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Product Marketing Specialist
+    time: 2020 - 2023
+    company: Movius 
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+        - Managed the MultiLine Help Center
+        - Wrote blogs using SEO techniques
+        - Collaborated with product managers on positioning and messaging
+        - Created sales enablement materials
+        - Assisted with planning marketing events
+
   - role: Senior Software Engineer
     time: 2014 - 2015
     company: Google, London
