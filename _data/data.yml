@@ -60,6 +60,8 @@ sidebar:
     - item: Instructional Design
       link:
 
+    - item: Markdown, ASCIIDOC, HTML, CSS, JS, CMS, YAML, GIMP, Inkscape, OpenSCAD, LibreOffice, Adobe Creative Pro, Microsoft Office
+
 career-profile:
   title: Career Profile
   summary: |
@@ -86,69 +88,40 @@ experiences:
         - Created sales enablement materials
         - Assisted with planning marketing events
 
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+  - role: Technical Writer
+    time: 2017 - 2020
+    company: US Tech Solutions
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
+        - Collaborated with the Fiber Education Team to maintain the Customer Service Knowledge Base for Google Fiber
+        - Scoped change impacts across documentation types.
+        - Participated in a complete revamping of the organization of our reusable content.
+        - Bootstrapped the new Sales knowledge base with materials from the CSR knowledge base.
+        - Used SEO techniques to optimize retrieval of information for techs on the job.
+        
+  - role: Technical Writer
+    time: 2014 - 2017
+    company: TOTO USA
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+        - Managed, edited, and created new installation manuals using InDesign and spare part sheets using Adobe Illustrator for the entire offering of plumbing fixtures and accessories at TOTO USA.
+        - Interviewed Product Engineers and Tech Support, participated in installation demonstrations, and reviewed existing documentation to gather information to write new installation manuals and spare part sheets with minimal oversight.
+        - Completed projects on schedule according to the Design Review (DR) and Modification Design Review (MDR) processes.
+        - Collaborated with the Documentation Specialist and Development Engineering team to complete edits to manuals and spare part sheets according to Engineering Change Notices (ECNs).
+        - Updated information for spare part sheets for China team in their Microsoft Access database.
+        - Created a Development Engineering Style Guide to ensure that documents were consistent in style, terminology, and layout.
 
 certifications:
   title: Certifications
   list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
+  - name: Product Marketing Certified: Core
+    start: 2023
+    end: 2023
+    organization: Product Marketing Alliance
+    credentialid: cert_1lt3nskg
+    credentialurl: productmarketingalliance.com
+    credentialname: Product Marketing Certified: Core
     details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+      Learned core principals of product marketing.
 
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
-  - name: Git learning
-    start: 2019
-    end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
-    details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
   title: Projects
