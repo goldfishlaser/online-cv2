@@ -19,7 +19,7 @@ sidebar:
   citizenship: USA
   website: https://mnallen.online/ # Include the full website URL, including "http://" or "https://".
   linkedin: melanie-allen-97054120/
-  github: goldfishlaser 
+  github: goldfishlaser
   mastodon: https://fosstodon.org/@goldfishlaser
 
   languages:
@@ -58,11 +58,11 @@ sidebar:
     - item: Instructional Design
       link:
 
-
 career-profile:
   title: Career Profile
   summary: |
     Dynamic communications professional who brings skills in technical writing, information design, instructional design, product marketing, and cross-departmental team collaboration. Proven ability to manage documentation in multiple industries and use analytics to make continuous improvements
+
 education:
   title: Education
   info:
