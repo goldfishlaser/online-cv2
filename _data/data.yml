@@ -20,9 +20,7 @@ sidebar:
   website: https://mnallen.online/ # Include the full website URL, including "http://" or "https://".
   linkedin: melanie-allen-97054120/
   github: goldfishlaser
-  goodreads: # Number-Username, e.g. 123456-alandoe
-  mastodon: # Please include your full Mastodon link here.
-  pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+  mastodon: https://fosstodon.org/@goldfishlaser
 
   languages:
     title: Languages
