@@ -121,7 +121,6 @@ certifications:
     details: |
       Learned core principals of product marketing.
 
-
 projects:
   title: Projects
   intro: >
@@ -134,8 +133,6 @@ projects:
   - title: BusKill Developer
     link: "#"
     tagline: "Design 3D-printed case for USB-A magnetic release."
-
-
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
