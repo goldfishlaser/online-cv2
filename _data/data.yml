@@ -105,20 +105,7 @@ experiences:
         - Collaborated with the Documentation Specialist and Development Engineering team to complete edits to manuals and spare part sheets according to Engineering Change Notices (ECNs).
         - Updated information for spare part sheets for China team in their Microsoft Access database.
         - Created a Development Engineering Style Guide to ensure that documents were consistent in style, terminology, and layout.
-
-certifications:
-  title: Certifications
-  list:
-  - name: Product Marketing Certified: Core
-    start: 2023
-    end: 2023
-    organization: Product Marketing Alliance
-    credentialid: cert_1lt3nskg
-    credentialurl: productmarketingalliance.com
-    credentialname: Product Marketing Certified: Core
-    details: |
-      Learned core principals of product marketing.
-
+        
 projects:
   title: Projects
   intro: >
